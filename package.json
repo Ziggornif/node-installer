@@ -1,0 +1,16 @@
+{
+  "name": "@linclark/node-installer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node-installer.js",
+  "bin": {
+    "node-installer": "bin/node-installer.js"
+  },
+  "author": "Matthieu Drouian <matthieudrouian@gmail.com> (https://github.com/Ziggornif)",
+  "license": "ISC",
+  "dependencies": {
+    "prompt": "^1.0.0",
+    "q": "^1.4.1",
+    "shelljs": "^0.7.7"
+  }
+}
