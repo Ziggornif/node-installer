@@ -1,10 +1,10 @@
 {
   "name": "nodeapp-installer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node app installer",
   "main": "nodeapp-installer.js",
   "bin": {
-    "node-installer": "bin/nodeapp-installer.js"
+    "nodeapp-installer": "bin/nodeapp-installer.js"
   },
   "author": "Matthieu Drouian <matthieudrouian@gmail.com> (https://github.com/Ziggornif)",
   "license": "MIT",
