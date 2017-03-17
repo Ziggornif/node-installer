@@ -1,4 +1,4 @@
-node-installer
+nodeapp-installer
 ==========
 Node app installer
 
@@ -8,14 +8,14 @@ npm install -g pm2
 ```
 
 ### How to
-Install node-installer.
+Install nodeapp-installer.
 ```
-npm install -g node-installer
+npm install -g nodeapp-installer
 ```
 
 You can use cli now.
 ```
-%> node-installer
+%> nodeapp-installer
 ```
 
 Fill prompt values.

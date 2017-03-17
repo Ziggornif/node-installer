@@ -1,10 +1,10 @@
 {
-  "name": "node-installer",
+  "name": "nodeapp-installer",
   "version": "1.0.0",
   "description": "Node app installer",
-  "main": "node-installer.js",
+  "main": "nodeapp-installer.js",
   "bin": {
-    "node-installer": "bin/node-installer.js"
+    "node-installer": "bin/nodeapp-installer.js"
   },
   "author": "Matthieu Drouian <matthieudrouian@gmail.com> (https://github.com/Ziggornif)",
   "license": "MIT",
@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ziggornif/node-installer.git"
+    "url": "git+https://github.com/Ziggornif/nodeapp-installer.git"
   },
   "keywords": [
     "node",
     "installer"
   ],
   "bugs": {
-    "url": "https://github.com/Ziggornif/node-installer/issues"
+    "url": "https://github.com/Ziggornif/nodeapp-installer/issues"
   },
-  "homepage": "https://github.com/Ziggornif/node-installer#readme"
+  "homepage": "https://github.com/Ziggornif/nodeapp-installer#readme"
 }
